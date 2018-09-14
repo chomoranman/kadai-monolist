@@ -80,9 +80,9 @@ p.item-title {
 .user-profile .status ul {
   margin: 0 auto 10px;
   padding: 0;
-  display:  table;
+  display: table;
 }
-.use-profile .status ul li {
+.user-profile .status ul li {
   width: 120px;
   padding: 5px 0;
   border-right: 1px solid #ddd;
